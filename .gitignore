@@ -1,0 +1,8 @@
+/lib/.ipynb_checkpoints/
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/

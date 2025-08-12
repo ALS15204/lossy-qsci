@@ -1,0 +1,11 @@
+
+M=70, N=4, Q=34
+Neural Network Training Time: 604.9899 seconds
+Average Decoding Times:
+  Annealing: nan seconds
+  Genetic:   nan seconds
+  Neural Net: 0.0004 seconds
+Success Rates:
+  Annealing: 0.0%
+  Genetic:   0.0%
+  Neural Net: 94.0%

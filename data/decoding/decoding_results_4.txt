@@ -1,0 +1,55 @@
+
+M=30, N=4, Q=23
+Neural Network Training Time: 44.9720 seconds
+Average Decoding Times:
+  Annealing: 8.1619 seconds
+  Genetic:   2.4813 seconds
+  Neural Net: 0.0019 seconds
+Success Rates:
+  Annealing: 44.0%
+  Genetic:   85.0%
+  Neural Net: 100.0%
+
+M=40, N=4, Q=27
+Neural Network Training Time: 84.9469 seconds
+Average Decoding Times:
+  Annealing: 10.2537 seconds
+  Genetic:   2.4382 seconds
+  Neural Net: 0.0032 seconds
+Success Rates:
+  Annealing: 28.0%
+  Genetic:   84.0%
+  Neural Net: 97.0%
+
+M=50, N=4, Q=30
+Neural Network Training Time: 129.3970 seconds
+Average Decoding Times:
+  Annealing: 9.8380 seconds
+  Genetic:   2.4132 seconds
+  Neural Net: 0.0037 seconds
+Success Rates:
+  Annealing: 30.0%
+  Genetic:   80.0%
+  Neural Net: 91.0%
+
+M=60, N=4, Q=32
+Neural Network Training Time: 188.7312 seconds
+Average Decoding Times:
+  Annealing: 11.1192 seconds
+  Genetic:   2.4130 seconds
+  Neural Net: 0.0040 seconds
+Success Rates:
+  Annealing: 22.0%
+  Genetic:   66.0%
+  Neural Net: 67.0%
+
+M=70, N=4, Q=34
+Neural Network Training Time: 260.0065 seconds
+Average Decoding Times:
+  Annealing: 12.9380 seconds
+  Genetic:   2.4845 seconds
+  Neural Net: 0.0043 seconds
+Success Rates:
+  Annealing: 11.0%
+  Genetic:   68.0%
+  Neural Net: 57.0%
