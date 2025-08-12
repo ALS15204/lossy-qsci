@@ -72,7 +72,7 @@ Typical dependencies (already pinned in `requirements.txt`):
 
 ## 📊 Benchmarks (at a glance)
 
-* **C₂ (6-31G)**: With **R=50**, Lossy-QSCI approaches uncompressed QSCI (R≈65) as Q increases, beating ED on smaller active spaces at the same qubit budget.
+* **C₂ (6-31G)**: With **R=50**, Lossy-QSCI beats exact diagnalization (ED) on smaller active spaces at the same qubit budget.
 * **LiH (STO-3G)**: **5-qubit** encoding reaches (10,2) chemical accuracy with **\~12** basis states; VQE alone (random compressions) remains above −7.8 Ha.
 * **H₂ (6-31G, noisy)**: Lossy-QSCI (4 qubits) hits chemical accuracy with **R≈12**, using fewer samples than QSCI (8 qubits, R≈15).
 
